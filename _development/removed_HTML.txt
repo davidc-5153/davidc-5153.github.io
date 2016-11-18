@@ -1,0 +1,320 @@
+        <div class="container">
+
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+              <li role="presentation" class="active"><a href="#contact-us-tab-details" aria-controls="contact-us-tab-details" role="tab" data-toggle="tab">Details</a></li>
+              <li role="presentation"><a href="#contact-us-tab-map" aria-controls="contact-us-tab-map" role="tab" data-toggle="tab">Map</a></li>
+              <li role="presentation"><a href="#contact-us-tab-hours" aria-controls="contact-us-tab-hours" role="tab" data-toggle="tab">Hours</a></li>
+              <li role="presentation"><a href="#contact-us-tab-form" aria-controls="contact-us-tab-form" role="tab" data-toggle="tab">Form</a></li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane fade in active" id="contact-us-tab-details">Contact Us Details Content</div>
+              <div role="tabpanel" class="tab-pane fade" id="contact-us-tab-map">Map goes here</div>
+              <div role="tabpanel" class="tab-pane fade" id="contact-us-tab-hours">Hours of Operation</div>
+              <div role="tabpanel" class="tab-pane fade" id="contact-us-tab-form">Form for contact us requests</div>
+            </div>
+
+        </div>
+
+
+ 
+        <div class="bg-faded p-y-3 section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1 class="display-3 m-y-2 text-xs-center text-primary">Plans</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="card m-y-lg">
+                            <div class="card-block text-xs-center bg-info">
+                                <h2 class="card-title">Small</h2>
+                                <h3 class="">10 $</h3>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                                <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            <div class="card-block text-xs-center">
+                                <a href="#" class="btn btn-block btn-primary">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card ">
+                            <div class="card-block p-y-3 text-xs-center bg-primary">
+                                <h1 class="card-title">Normal</h1>
+                                <h2 class="">20 $</h2>
+                            </div>
+                            <ul class="list-group list-group-flush ">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                                <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            <div class="card-block text-xs-center">
+                                <a href="#" class="btn btn-block btn-3 btn-primary">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card m-y-lg">
+                            <div class="card-block text-xs-center bg-info">
+                                <h2 class="card-title">Large</h2>
+                                <h3 class="">30 $</h3>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                                <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            <div class="card-block text-xs-center">
+                                <a href="#" class="btn btn-block btn-primary">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="p-y-3 section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card m-y-1">
+                            <div class="bg-info card-block text-center text-xs-center">
+                                <h2 class="card-title">Small</h2>
+                                <h3 class="">10 $</h3>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                                <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            <div class="card-block text-center">
+                                <a href="#" class="btn btn-block btn-primary">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card ">
+                            <div class="bg-primary card-block  text-xs-center">
+                                <h1 class="card-title">Normal</h1>
+                                <h2 class="">20 $</h2>
+                            </div>
+                            <ul class="list-group list-group-flush ">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                                <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            <div class="card-block ">
+                                <a href="#" class="btn btn-block btn-lg btn-primary">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card m-y-1">
+                            <div class="bg-info card-block text-xs-center">
+                                <h2 class="card-title">Large</h2>
+                                <h3 class="">30 $</h3>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Cras justo odio</li>
+                                <li class="list-group-item">Dapibus ac facilisis in</li>
+                                <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            <div class="card-block ">
+                                <a href="#" class="btn btn-block btn-primary">Subscribe</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="p-y-3 section" draggable="true">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1 class="text-primary">HEADING</h1>
+                        <h3>A subtitle</h3>
+                        <p class="lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+                            pretium quis, sem.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="http://v4.pingendo.com/assets/photos/wireframe/photo-1.jpg" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ol class="" draggable="true">
+                            <li>One</li>
+                            <li>Two</li>
+                            <li>Three</li>
+                        </ol>
+                        <ul class="" draggable="true">
+                            <li>One</li>
+                            <li>Two</li>
+                            <li>Three</li>
+                        </ul>
+                        <ol class="" draggable="true">
+                            <li>One</li>
+                            <li>Two</li>
+                            <li>Three</li>
+                        </ol>
+                        <div class="btn-group" draggable="true">
+                            <a href="#" class="btn btn-primary">Button 1</a>
+                            <a href="#" class="btn btn-primary">Button 2</a>
+                            <a href="#" class="btn btn-primary">Button 3</a>
+                        </div><a href="#" class="btn btn-block btn-primary-outline" draggable="true">Button</a>
+                        <ul class="nav nav-pills" draggable="true">
+                            <li class="nav-item">
+                                <a href="#" class="active nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Profile</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link">Messages</a>
+                            </li>
+                        </ul>
+                        <ul class="nav nav-tabs" draggable="true">
+                            <li class="nav-item">
+                                <a href="#" class="active nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Profile</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link">Messages</a>
+                            </li>
+                        </ul>
+                        <ul class="breadcrumb" draggable="true">
+                            <li class="breadcrumb-item">
+                                <a href="#">Home</a>
+                            </li>
+                            <li class="breadcrumb-item">
+                                <a href="#">Library</a>
+                            </li>
+                            <li class="breadcrumb-item active">Data</li>
+                        </ul>
+                        <form class="" draggable="true">
+                            <div class="form-group">
+                                <label>Email address</label>
+                                <input type="email" class="form-control" placeholder="Enter email">
+                            </div>
+                            <div class="form-group">
+                                <label>Password</label>
+                                <input type="password" class="form-control" placeholder="Password">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                        <div class="card" draggable="true">
+                            <div class="card-block">
+                                <h4 class="card-title">Card title</h4>
+                                <h6 class="card-subtitle text-muted">Support card subtitle</h6>
+                            </div>
+                            <img class="card-img-top img-fluid" src="http://v4.pingendo.com/assets/photos/food/photo-3.jpg" alt="Card image">
+                            <div class="card-block">
+                                <p class="card-text">Some example text to build ..</p>
+                                <a href="#" class="card-link">link</a>
+                                <a href="#" class="card-link">Second link</a>
+                            </div>
+                        </div>
+                        <div class="table-responsive" draggable="true">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>First Name</th>
+                                        <th>Last Name</th>
+                                        <th>Username</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Mark</td>
+                                        <td>Otto</td>
+                                        <td>@mdo</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Jacob</td>
+                                        <td>Thornton</td>
+                                        <td>@fat</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Larry</td>
+                                        <td>the Bird</td>
+                                        <td>@twitter</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="p-y-3 section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1 class="display-3 m-y-2 text-xs-center text-primary">A team</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3">
+                        <img src="https://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png" class="center-block img-circle img-fluid m-y-2">
+                        <h3 class="text-xs-center">John Doe</h3>
+                        <p class="text-xs-center">Developer</p>
+                    </div>
+                    <div class="col-lg-3">
+                        <img src="https://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png" class="center-block img-circle img-fluid m-y-2">
+                        <h3 class="text-xs-center">John Doe</h3>
+                        <p class="text-xs-center">Developer</p>
+                    </div>
+                    <div class="col-lg-3">
+                        <img src="https://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png" class="center-block img-circle img-fluid m-y-2">
+                        <h3 class="text-xs-center">John Doe</h3>
+                        <p class="text-xs-center">Developer</p>
+                    </div>
+                    <div class="col-lg-3">
+                        <img src="https://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png" class="center-block img-circle img-fluid m-y-2">
+                        <h3 class="text-xs-center">John Doe</h3>
+                        <p class="text-xs-center">Developer</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-info p-y-0 section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <address class="m-y-3 text-xs-center">
+                            <strong>Company name, Inc.</strong>
+                            <br>795 Folsom Ave, Suite 600
+                            <br>San Francisco, CA 94107
+                            <br>
+                            <abbr title="Phone">P:</abbr>(123) 456-7890</address>
+                    </div>
+                </div>
+                <div class="p-y-3 row text-xs-center">
+                    <div class="col-xs-4">
+                        <a><i class="fa fa-5x fa-fw fa-facebook"></i></a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a><i class="fa fa-5x fa-fw fa-twitter"></i></a>
+                    </div>
+                    <div class="col-xs-4">
+                        <a><i class="fa fa-5x fa-fw fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
