@@ -72,8 +72,8 @@ _/img/slides/
 _/img/specials/
 _/js/
 _/php/
-_development/
+_development
 ajax/
-content/
+content
 internal/
 pwa/
