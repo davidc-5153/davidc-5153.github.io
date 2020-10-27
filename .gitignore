@@ -74,6 +74,6 @@ _/js/
 _/php/
 _development/
 ajax/
-content/
+/content/
 internal/
 pwa/
