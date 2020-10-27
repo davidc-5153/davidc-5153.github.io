@@ -1,1 +1,1 @@
-# PianetaHairDesign.github.io
+# Pianeta Hair Design CLOSED
